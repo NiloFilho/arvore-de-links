@@ -1,0 +1,7 @@
+body {
+    /* Pode ser usado shorthand*/
+    background-image: url(./imagens/bg-mobile.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+}
